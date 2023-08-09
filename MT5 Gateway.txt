@@ -1,0 +1,26 @@
+$$$$  MT5 Gateway $$$$
+
+- First, I will configure the MT5 Gateway architecture and its components, including the communication protocols and data structures.
+
+- Then, establish the connection between the app and the MT5 trading server. 
+Depending on the gateway mechanism I will plan to implement fix gateway, and connect to the trading server using appropriate network protocols.
+
+
+- Once the connection is established, I will handle data communication between app and the MT5 trading server. 
+This may include implementing functionalities like handling account information, instrument specifications, transmitting market data, placing orders, and managing portfolio positions.
+
+I will do exchanging market data first for test project.
+
+
+- To ensure the integrity of the trading system, it is needed to implement risk management features within MT5 gateway. 
+I will do it after the test project.
+
+
+
+
+
+
+
+
+
+
